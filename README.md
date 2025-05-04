@@ -60,7 +60,7 @@ While my strength lies in the backend, I also enjoy working on the frontend usin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minhduc8a2&show_icons=true&theme=radical" alt="Le Minh Duc's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhduc8a2&layout=compact&theme=radical" alt="Top Languages"/>
+  
 </p>
 
 ---
