@@ -7,7 +7,7 @@
 
 ## 🌐 Language Proficiency
 
-- **TOEIC Score: 975** — Demonstrates excellent English communication skills, both written and verbal
+- **TOEIC Score: 975** — Demonstrates excellent English communication skills, both reading and listening
 
 ---
 
