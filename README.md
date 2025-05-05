@@ -68,7 +68,7 @@
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ducle98/)  
-- 📧 minhduc8a2.1@gmail.com  
+- 📧 le.minh.duc.dev@gmail.com  
 
 ---
 
