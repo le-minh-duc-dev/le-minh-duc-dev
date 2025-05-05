@@ -67,7 +67,7 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ducle98/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/le-minh-duc-dev)  
 - 📧 le.minh.duc.dev@gmail.com  
 
 ---
