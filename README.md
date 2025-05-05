@@ -56,11 +56,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhduc8a2&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=le-minh-duc-dev&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhduc8a2&layout=compact&theme=radical&cache_seconds=3600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-minh-duc-dev&layout=compact&theme=radical&cache_seconds=3600" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhduc8a2&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le-minh-duc-dev&theme=radical" />
 </p>
 
 ---
