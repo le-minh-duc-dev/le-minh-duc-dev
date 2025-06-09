@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Le Minh Duc
 
 🎓 Graduated as Engineer of Information Technology from Can Tho University in May 2025, with GPA: 3.73/4.0
+
 💡 Passionate about backend development, system design, and building scalable, reliable systems.
 
 ---
